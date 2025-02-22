@@ -16,7 +16,7 @@ Welcome to **Stunning Restaurant**, a beautifully designed multi-page website bu
 
 1️⃣ **Clone the repository:**  
 ```bash
-git clone https://github.com/codewith-rawad/restaurant.git
+git clone https://github.com/codewith-rawad/Restaurant.git
 ```
 
 2️⃣ **Open `index.html` in your browser**  
